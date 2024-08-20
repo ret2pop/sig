@@ -9,4 +9,5 @@ line if required. The name is short for several things; it can stand for the
 word 'significant', or 'signature', or whichever other word you may prefer.
 
 This repository accurately documents the creation of this repository, as it is
-self-documenting.
+self-documenting. This text has at most 70 characters per line because the
+writer, Preston Pan, felt that it was natural.
